@@ -1,0 +1,8 @@
+name = "selecticore"
+compatibility_date = "2026-09-30"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "selecticore-prod"
+database_id = "b7b5d051-c697-4df4-a022-2d06205ffb40"
